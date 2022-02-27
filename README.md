@@ -2,7 +2,7 @@
 
 ## About
 
-I am a freelance software engineer, passionate developer and specialized in the creation of complex web applications.
+I am a freelance software engineer, passionate developer and specialized in the creation of complex web applications.  
 I work on both the back-end and the front-end and I strive to apply the most demanding software design standards:
 
 - 👤 Respectful with users by putting their business logic at the core of software design with **Domain Driven Design**
