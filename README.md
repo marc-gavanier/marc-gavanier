@@ -5,10 +5,10 @@
 I am a freelance software engineer, passionate developer and specialized in the creation of complex web applications.
 I work on both the back-end and the front-end and I strive to apply the most demanding software design standards:
 
-- 👤 Respectful with users by putting their business logic at the core of software design with *Domain Driven Design*
-- ✨ Maintainability, by writing code for the next developers leaving them *Clean Code* in a *Clean Architecture* 
-- 🚀 Code optimization and blazing production speed with test-driven development *TDD* 
-- 🎉 High delivery frequency and automated deployment to the cloud with *DevOps*
+- 👤 Respectful with users by putting their business logic at the core of software design with **Domain Driven Design**
+- ✨ Maintainability, by writing code for the next developers leaving them *Clean Code* in a **Clean Architecture**
+- 🚀 Code optimization and blazing production speed with test-driven development **TDD**
+- 🎉 High delivery frequency and automated deployment to the cloud with **DevOps**
 
 <!--
 **marc-gavanier/marc-gavanier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
