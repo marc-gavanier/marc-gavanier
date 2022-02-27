@@ -35,7 +35,8 @@ I work on both the back-end and the front-end and I strive to apply the most dem
 
 ## 🤙 Contact
 
-Are you interested in collaborating or want to connect or chat? If so, contact me by [e-mail](mailto:marc.gavanier@gmail.com) or via [LinkedIn](https://www.linkedin.com/in/marc-gavanier/).
+Are you interested in collaborating or want to connect or chat?  
+If so, contact me by [e-mail](mailto:marc.gavanier@gmail.com) or via [LinkedIn](https://www.linkedin.com/in/marc-gavanier/).
 
 Hope to hear from you soon 🙂
 
