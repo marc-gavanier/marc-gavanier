@@ -1,8 +1,8 @@
 # 👋 Hello, I am Marc Gavanier
 
-## ❓ About
+## 🫖 About
 
-I am a freelance software engineer, passionate developer and specialized in the creation of complex web applications.  
+I am a french 🇫🇷 freelance software engineer, passionate developer and specialized in the creation of complex web applications.  
 I work on both the back-end and the front-end and I strive to apply the most demanding software design standards:
 
 - 👤 Respectful with users by putting their business logic at the core of software design with **Domain Driven Design**
@@ -26,6 +26,12 @@ I work on both the back-end and the front-end and I strive to apply the most dem
 * Implementation of serverless cloud architectures managed and automated using infrastructure as code
 * Development experience improvement in order to increase feature delivery 
 * Perfecting development teams with the **Software Craftsmanship** approach 
+
+## 🎁 **My little extras** 
+
+* I invest myself in the teams I work with and share my knowledge with passion
+* Very curious by nature, count on me to take an in-depth interest in the business
+* All my choices are pragmatic and guided by the value brought to the end user
 
 <!--
 **marc-gavanier/marc-gavanier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
