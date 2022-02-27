@@ -19,7 +19,13 @@ I work on both the back-end and the front-end and I strive to apply the most dem
 - DevOps: AWS, Serverless, Terraform, Docker, GitHub Actions, GitLab CI/CD
 - Collaboration: Git, Agile Methodologies, Extreme Programming, Lean, Kanban, Scrum
 
+## 🦸‍♂️ My focus areas
 
+* MVP, Web Application or SaaS design and development  
+* Technical audit about software quality, maintainability, testability and scaling
+* Implementation of serverless cloud architectures managed and automated using infrastructure as code
+* Development experience improvement in order to increase feature delivery 
+* Perfecting development teams with the **Software Craftsmanship** approach 
 
 <!--
 **marc-gavanier/marc-gavanier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
