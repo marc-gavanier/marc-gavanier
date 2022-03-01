@@ -16,7 +16,7 @@ I work on both the back-end and the front-end and I strive to apply the most dem
 - Back: `NestJS` `Express` `.NET` `REST` `OpenAPI`
 - Front: `Angular` `RxJS` `React` `Redux` `HTML`, `CSS` `Bootstrap` `Sass`
 - Data base: `PostgreSQL` `MongoDB` `Amazon RDS` `DynamoDB`
-- DevOps: `AWS`, `Serverless` `Terraform` `Docker` `GitHub Actions` `GitLab CI/CD`
+- DevOps: `AWS` `Serverless` `Terraform` `Docker` `GitHub Actions` `GitLab CI/CD`
 - Collaboration: `Git` `Agile Methodologies` `Extreme Programming` `Lean` `Kanban` `Scrum`
 
 ## 🔬 My focus areas
